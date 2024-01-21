@@ -1,0 +1,1 @@
+This script download signature images from google drive through shared links stored in one column inside excel sheet as a response from the senders. so it parse each cell, download image into external folder and insert path of this image file into corresponding cell inside the same excel sheet to be ready for mail merge.
